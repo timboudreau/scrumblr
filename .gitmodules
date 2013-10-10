@@ -1,0 +1,9 @@
+[submodule "jquery-ui-touch-punch"]
+	path = jquery-ui-touch-punch
+	url = git@github.com:furf/jquery-ui-touch-punch.git
+[submodule "jquery_jeditable"]
+	path = jquery_jeditable
+	url = git@github.com:tuupola/jquery_jeditable.git
+[submodule "blockui"]
+	path = blockui
+	url = https://github.com/malsup/blockui/
