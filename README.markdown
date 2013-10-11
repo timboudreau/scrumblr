@@ -1,6 +1,8 @@
 scrumblr
 ========
 
+(This is a fork of the original Scrumblr, using updated javascript libraries and attempting to fix dragging and editability for ios - making editability actually work on ios is still pending - Tim)
+
 what is it
 ----------
 [scrumblr](http://scrumblr.ca) is a web-based simulation of a physical agile sprint board that supports real-time collaboration. it is built using node.js, websockets (using socket.io), CSS3, and jquery. i hope you like it.
